@@ -8,7 +8,7 @@ og: /blog/sora-card-phase-1/og.jpg
 
 ### TL;DR
 
-Within this article you will find everything you need to get started with SORA Card, specifically, it will cover:
+Within this article you will find everything you need to get started with SORA Card, specifically, it will cover
 
 - Details about Phase 1
 - The 3 channels and options to apply for SORA Card
